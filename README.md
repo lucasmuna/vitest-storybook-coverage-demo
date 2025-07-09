@@ -4,7 +4,7 @@ Minimal reproduction for https://github.com/storybookjs/storybook/discussions/31
 
 ## How to run
 
-Just execute `./coverage.sh` or manually follow its steps.
+Install all dependencies with `npm install` and then execute `./coverage.sh` (or manually follow its steps).
 
 ## My results
 
